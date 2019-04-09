@@ -6,4 +6,4 @@ header-includes:
 # Bomba
 ## Řešení
 ### Algoritmus
-
+Zadání jsem pochopil tak, že není potřeba zajistit spojení rozbušky a odpočtu.
